@@ -1,8 +1,5 @@
 package com.example.uasoracle;
-/**
- * Created by Sandri Alfarisi.
- * github : https://github.com/sandrialfarisi
- */
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.ProgressDialog;

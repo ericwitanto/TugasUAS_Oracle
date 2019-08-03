@@ -13,19 +13,19 @@ Aplikasi ini memiliki 5 table, yaitu :
 5. [Supplier](#table-supplier)
 
 #### Table Customer
-![Table Customer!](./GMBR/table-customer.jpg "Table Customer")
+![Table Customer!](./GMBR/table-customer.JPG "Table Customer")
 
 #### Table Barang
-![Table Customer!](./GMBR/table-barang.jpg "Table Barang")
+![Table Customer!](./GMBR/table-barang.JPG "Table Barang")
 
 #### Table Penjualan
-![Table Customer!](./GMBR/table-penjualan.jpg "Table Pembelian")
+![Table Customer!](./GMBR/table-penjualan.JPG "Table Pembelian")
 
 #### Table Pembelian
-![Table Customer!](./GMBR/t-pembelian.jpg "Table Pembelian")
+![Table Customer!](./GMBR/t-pembelian.JPG "Table Pembelian")
 
 #### Table Supplier
-![Table Customer!](./GMBR/table-supplier.jpg "Table Pembelian")
+![Table Customer!](./GMBR/table-supplier.JPG "Table Pembelian")
 
 ### *RESTful Services*
 
@@ -48,60 +48,60 @@ Metode HTTP yang digunakan dalam aplikasi ini adalah:
 #### *RESTful Service* pada Barang
 
 - **GET Barang**  
-![GET](./GMBR/resfull-barang-get.jpg)
+![GET](./GMBR/resfull-barang-get.JPG)
 
 - **POST Barang**  
-![POST](./GMBR/resfull-barang-post.jpg)
+![POST](./GMBR/resfull-barang-post.JPG)
 
 - **PUT Barang**  
-![PUT](./GMBR/resfull-barang-put.jpg)
+![PUT](./GMBR/resfull-barang-put.JPG)
 
 - **DELETE Barang**  
-![DELETE](./GMBR/resfull-barang-delete.jpg)
+![DELETE](./GMBR/resfull-barang-delete.JPG)
 
 #### *RESTful Service* pada Customer
 
 - **GET Customer**  
-![GET](./GMBR/resfull-customer-get.jpg)
+![GET](./GMBR/resfull-customer-get.JPG)
 
 - **POST Customer**  
-![POST](./GMBR/resfull-customer-post.jpg)
+![POST](./GMBR/resfull-customer-post.JPG)
 
 - **PUT Customer**  
-![PUT](./GMBR/resfull-customer-put.jpg)
+![PUT](./GMBR/resfull-customer-put.JPG)
 
 - **DELETE Customer**  
-![DELETE](./GMBR/resfull-customer-delete.jpg)
+![DELETE](./GMBR/resfull-customer-delete.JPG)
 
 #### *RESTful Service* pada Penjualan
 
 - **GET Penjualan**  
-![GET](./GMBR/resfull-pembelian-get.jpg)
+![GET](./GMBR/resfull-pembelian-get.JPG)
 
 - **POST Penjualan**  
-![POST](./GMBR/resfull-pembelian-post.jpg)
+![POST](./GMBR/resfull-pembelian-post.JPG)
 
 #### *RESTful Service* pada Pembelian
 
 - **GET Pembelian**  
-![GET](./GMBR/resfull-penjualan-post.jpg)
+![GET](./GMBR/resfull-penjualan-post.JPG)
 
 - **POST Pembelian**  
-![POST](./GMBR/resfull-penjualan-post.jpg)
+![POST](./GMBR/resfull-penjualan-post.JPG)
 
 #### *RESTful Service* pada Supplier
 
 - **GET Supplier**  
-![GET](./GMBR/resfull-supplier-get.jpg)
+![GET](./GMBR/resfull-supplier-get.JPG)
 
 - **POST Supplier**  
-![POST](./GMBR/resfull-supplier-post.jpg)
+![POST](./GMBR/resfull-supplier-post.JPG)
 
 - **PUT Supplier**  
-![PUT](./GMBR/resfull-supplier-put.jpg)
+![PUT](./GMBR/resfull-supplier-put.JPG)
 
 - **DELETE Supplier**  
-![DELETE](./GMBR/resfull-supplier-delete.jpg)
+![DELETE](./GMBR/resfull-supplier-delete.JPG)
 
 ### CodeIgniter
 
@@ -143,19 +143,24 @@ class Api
 #### Tampilan Web
 
 - Barang
-![List Barang](./GMBR/barang.jpg)
+![List Barang](./GMBR/barang.JPG)
 
 - Customer
-![List Customer](./GMBR/customer.jpg)
+![List Customer](./GMBR/customer.JPG)
 
 - Penjualan
-![List Penjualan](./GMBR/transaksi-penjualan.jpg)
+![List Penjualan](./GMBR/transaksi-penjualan.JPG)
 
 - Pembelian
-![List Pembelian](./GMBR/transaksi-pembelian.jpg)
+![List Pembelian](./GMBR/transaksi-pembelian.JPG)
 
 - Supplier
-![List Supplier](./GMBR/supplier.jpg)
+![List Supplier](./GMBR/supplier.JPG)
 
 #### Tampilan Mobile Apps
 
+- **Android Studio**
+![Android Studio](./GMBR/gambar-android.JPG)
+
+- **Tampilan Android**
+![Tampilan Android](./GMBR/android-tampilan.JPG)

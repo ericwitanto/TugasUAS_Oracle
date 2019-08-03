@@ -1,8 +1,5 @@
 package com.example.uasoracle.model;
-/**
- * Created by Sandri Alfarisi.
- * github : https://github.com/sandrialfarisi
- */
+
 import com.google.gson.annotations.SerializedName;
 
 public class BarangItem {
