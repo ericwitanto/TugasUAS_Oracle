@@ -162,5 +162,5 @@ class Api
 - **Android Studio**
 ![Android Studio](./GMBR/gambar-android.JPG)
 
-- **Tampilan Android**
+- **Tampilan Android**  
 ![Tampilan Android](./GMBR/android-tampilan.JPG)
